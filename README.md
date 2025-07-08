@@ -1,2 +1,2 @@
 # delta-demo
-This is the simple game
+This is the simple game.
